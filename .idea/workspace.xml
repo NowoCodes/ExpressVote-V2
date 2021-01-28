@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad6ae26c-8c18-4d01-852a-dd65e61887c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="ad6ae26c-8c18-4d01-852a-dd65e61887c5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +23,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,6 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611776274403</updated>
       <workItem from="1611776275572" duration="1477000" />
+      <workItem from="1611826068034" duration="435000" />
     </task>
     <servers />
   </component>
@@ -44,6 +43,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="747" y="23" key="#PHP" timestamp="1611826175578">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state x="747" y="23" key="#PHP/0.23.1920.1003/-1280.23.1280.697@0.23.1920.1003" timestamp="1611826175578" />
+    <state x="548" y="274" key="IDE.errors.dialog" timestamp="1611826153141">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state x="548" y="274" key="IDE.errors.dialog/0.23.1920.1003/-1280.23.1280.697@0.23.1920.1003" timestamp="1611826153141" />
+    <state x="469" y="163" key="SettingsEditor" timestamp="1611826515296">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state x="469" y="163" key="SettingsEditor/0.23.1920.1003/-1280.23.1280.697@0.23.1920.1003" timestamp="1611826515296" />
     <state width="600" height="440" key="javadoc.popup" timestamp="1611776896573">
       <screen x="0" y="23" width="1920" height="1003" />
     </state>
